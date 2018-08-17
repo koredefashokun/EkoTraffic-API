@@ -1,0 +1,31 @@
+{
+  "name": "EkoTraffic-API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KidzGaming/EkoTraffic-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KidzGaming/EkoTraffic-API/issues"
+  },
+  "homepage": "https://github.com/KidzGaming/EkoTraffic-API#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-2": "^6.24.1",
+    "rimraf": "^2.6.2"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "nodemailer": "^4.6.8"
+  }
+}
